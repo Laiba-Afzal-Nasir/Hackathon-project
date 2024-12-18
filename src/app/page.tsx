@@ -28,7 +28,6 @@ export default function Home() {
     <DiscountItems />
    <TopCategories />
     <LatestUpdate />
-    {/* <Logos /> */}
     <LatestBlogs />
      {/* Footer */}
      <div className='absolute top-[7600px]'>
