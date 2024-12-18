@@ -3,7 +3,6 @@ export const metadata = {
   
   };
   import React from 'react'
-  import { IoIosArrowDown } from "react-icons/io";
   import { RiStarSFill } from "react-icons/ri";
   import { FaRegHeart } from "react-icons/fa";
   import { IoCartOutline } from "react-icons/io5";

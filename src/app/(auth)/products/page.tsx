@@ -4,7 +4,6 @@ export const metadata = {
   };
   import Footer from '@/components/Footer'
   import Image from 'next/image'
-  import Link from 'next/link'
   import { RiStarSFill } from "react-icons/ri";
   import { BsHeart } from "react-icons/bs";
   import { FaFacebook } from "react-icons/fa";

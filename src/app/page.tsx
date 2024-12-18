@@ -6,7 +6,6 @@ import Hero3 from "@/components/Hero3";
 import LatestBlogs from "@/components/LatestBlogs";
 import LatestProducts from "@/components/LatestProducts";
 import LatestUpdate from "@/components/LatestUpdate";
-import Logos from "@/components/Logos";
 import ShopexOffer from "@/components/ShopexOffer";
 import TopCategories from "@/components/TopCategories";
 import TrendingProducts from "@/components/TrendingProducts";

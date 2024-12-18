@@ -10,7 +10,7 @@ export const metadata = {
    import { FaTwitter } from "react-icons/fa";
    import { IoLogoInstagram } from "react-icons/io";
    import { CiSearch } from "react-icons/ci";
-  import Footer from '@/components/Footer';
+ 
   
   
   
